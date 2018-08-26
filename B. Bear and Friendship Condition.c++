@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <bits/stdc++.h>                                 //Observation :the graph should be complete. 
 using namespace std;
 typedef long long ll;
 const int N = 2e5+5,M=1e6+5,OO=0x3f3f3f3f;
